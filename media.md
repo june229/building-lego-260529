@@ -7,4 +7,4 @@
 
 주요 기믹 작동 영상 또는 GIF 제작
 
-최종 리뷰 메인 문서 업데이트 (README.md 또는 docs/review.md)
+최종 리뷰 메인 문서 업데이트 (README.md 또는 docs/review.md).
